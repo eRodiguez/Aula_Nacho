@@ -1,0 +1,16 @@
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\bin\Debug\Motor_Gráfico.dll
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\bin\Debug\Motor_Gráfico.pdb
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.csproj.AssemblyReference.cache
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.uscl_Etiquetas.resources
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.csproj.GenerateResource.cache
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.csproj.CoreCompileInputs.cache
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.dll
+C:\Users\Esteban Rodriguez\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.pdb
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\bin\Debug\Motor_Gráfico.dll
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\bin\Debug\Motor_Gráfico.pdb
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.csproj.AssemblyReference.cache
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.uscl_Etiquetas.resources
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.csproj.GenerateResource.cache
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.csproj.CoreCompileInputs.cache
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.dll
+C:\Users\Esteban Rodriguez\Ingenieria_Software\Proyectos-C#\Motor_Gráfico\obj\Debug\Motor_Gráfico.pdb
